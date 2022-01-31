@@ -1,0 +1,14 @@
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.AssemblyReference.cache
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.Login.resources
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Zomer\source\repos\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Zomer\source\repos\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Zomer\source\repos\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.frmMain.resources
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.User.frmUserRegister.resources
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.User.frmChangePassword.resources
