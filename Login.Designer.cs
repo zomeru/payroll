@@ -64,7 +64,7 @@
             this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(211, 24);
             this.txtPassword.TabIndex = 3;
-            this.txtPassword.Text = "zomer123";
+            this.txtPassword.Text = "zomer321";
             // 
             // label2
             // 
