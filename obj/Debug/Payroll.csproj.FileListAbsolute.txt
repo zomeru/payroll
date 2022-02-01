@@ -12,3 +12,4 @@ C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.pdb
 C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.frmMain.resources
 C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.User.frmUserRegister.resources
 C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.User.frmChangePassword.resources
+C:\Users\Zomer\source\repos\Payroll\Payroll\obj\Debug\Payroll.Employee.frmEmployeeRegister.resources

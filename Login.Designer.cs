@@ -104,10 +104,11 @@
             this.linkForgotPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkForgotPassword.Location = new System.Drawing.Point(195, 120);
             this.linkForgotPassword.Name = "linkForgotPassword";
-            this.linkForgotPassword.Size = new System.Drawing.Size(131, 18);
+            this.linkForgotPassword.Size = new System.Drawing.Size(138, 18);
             this.linkForgotPassword.TabIndex = 6;
             this.linkForgotPassword.TabStop = true;
-            this.linkForgotPassword.Text = "Forgot Password?";
+            this.linkForgotPassword.Text = "Change Password?";
+            this.linkForgotPassword.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkForgotPassword_LinkClicked);
             // 
             // Login
             // 
